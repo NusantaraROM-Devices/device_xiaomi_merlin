@@ -87,6 +87,9 @@ wifi.direct.interface=p2p0
 wifi.interface=wlan0
 wifi.tethering.interface=ap0
 
+# Perf
+ro.vendor.perf.scroll_opt=true
+
 # ZRAM
 ro.zram.mark_idle_delay_mins=60
 ro.zram.first_wb_delay_mins=180
