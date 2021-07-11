@@ -114,3 +114,7 @@ persist.dbg.wfc_avail_ovr=1
 # Priv-app permission
 PRODUCT_PRODUCT_PROPERTIES += \
 	ro.control_privapp_permissions=log
+
+# Iorap
+iorapd.perfetto.enable=true
+iorapd.readahead.enable=true
