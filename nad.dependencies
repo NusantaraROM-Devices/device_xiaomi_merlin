@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "device_xiaomi_merlin",
+    "target_path": "device/xiaomi/merlin",
+    "branch": "11"
+  },
+  {
+    "repository": "vendor_xiaomi_merlin",
+    "target_path": "vendor/xiaomi/merlin",
+    "branch": "11"
+  }
+]
