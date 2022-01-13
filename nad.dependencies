@@ -1,0 +1,20 @@
+[
+  {
+    "remote"       : "github",
+    "repository": "kernel_xiaomi_mt6768",
+    "target_path": "kernel/xiaomi/mt6768"
+    "branch"       : "12"
+  },
+  { 
+    "remote"       : "github",
+    "repository":  "vendor_xiaomi_merlinx",
+    "target_path": "vendor/xiaomi/merlinx"
+    "branch"       : "11"
+  },
+  {
+    "remote"       : "github",
+    "repository":  "device_xiaomi_mt6768-common",
+    "target_path": "device/xiaomi/mt6768-common"
+    "branch"       : "11"
+  }
+]
