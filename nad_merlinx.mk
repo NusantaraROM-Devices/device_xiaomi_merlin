@@ -44,10 +44,10 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR := xiaomi
 TARGET_VENDOR_PRODUCT_NAME := merlinx
-PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="merlin-user 11 RP1A.200720.011 V12.0.1.0.RJOMIXM release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="redfin-user 12 SQ1A.211205.002 7961164 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := Redmi/merlin/merlin:11/RP1A.200720.011/V12.0.1.0.RJOMIXM:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:12/SQ1A.220105.002/7961164:user/release-keys
 
 # Official Tag
 NAD_BUILD_TYPE := OFFICIAL
